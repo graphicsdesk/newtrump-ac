@@ -1,0 +1,198 @@
+1,History,HIST
+3,African American Studies,AFAM
+4,Anthropology,ANTH
+7,Computer Science,COMS
+8,East Asian Languages and Cultures,EALC
+9,Economics,ECON
+10,English and Comparative Literature,ENCL
+11,Film,FILM
+12,French,FRRP
+13,Italian,ITAL
+15,Mathematics,MATH
+16,"Middle Eastern, South Asian and African Studies",MELC
+17,Music,MUSI
+19,Philosophy,PHIL
+20,Physics,PHYS
+21,Political Science,POLS
+22,Psychology,PSYC
+23,Religion,RELI
+24,Sociology,SOCI
+25,Spanish and Portuguese,
+26,Urban Studies,
+27,Visual Arts,VIAR
+28,Biology & Biomedical Engineering,
+29,Classics,CLAS
+30,Germanic Languages,GERL
+31,Statistics,STAT
+34,Swedish,
+35,Theatre Arts,THEA
+36,Women's and Gender Studies,WMST
+37,Latin American and Iberian Cultures,SPPO
+38,Asian American Studies,
+40,Writing,WRIT
+41,Art History and Archaeology,AHAR
+43,Medicine,MEDI
+44,Astronomy,ASTR
+45,"Architecture, Planning and Preservation",ARPL
+46,Slavic Languages,SLAL
+48,Electrical Engineering,ELEN
+49,Dance,
+50,Physical Education,PHED
+52,Earth and Environmental Sciences,EESC
+53,Civil Engineering and Engineering Mechanics,CEEM
+56,Business,BUSI
+57,Industrial Engineering and Operations Research,IEOR
+58,Education,
+61,Archaeology,
+62,Speech,
+63,Applied Physics and Applied Mathematics,APAM
+66,Underwater Basket Weaving,
+68,Human Rights,HRTB
+69,Mechanical Engineering,MECE
+70,"Ecology, Evolution, and Environmental Biology",EEEB
+71,Law,LAW
+81,Center for Ethnicity and Race,CSER
+92,International and Public Affairs,INTA
+106,Earth and Environmental Engineering,EAEE
+108,CORE,CORE
+109,First-Year Seminars,
+110,American Studies,AMST
+111,Journalism,JOUR
+112,Continuing Education,
+114,Sustainable Development,
+115,Physical Therapy,PHYT
+116,Department Unknown,
+117,Accounting,ACCT
+118,Actuarial Science,ACTU
+120,Africana Studies @Barnard,AFSB
+121,American Language Program,ALP
+122,American Studies @Barnard,AMSB
+123,Anesthesiology,ANES
+124,Anthropology @Barnard,ANTB
+125,Architecture @Barnard,ARCB
+126,Art History @Barnard,ARHB
+127,School of the Arts,ARTS
+128,Asian and Middle East @Barnard,ASMB
+129,Athena Center for Leadership Studies @Barnard,ACLB
+130,Auditing,AUDT
+131,Biochemistry and Molecular Biophysics,BICH
+132,Bioethics,BIET
+133,Biological Sciences,BIOS
+134,Biological Sciences @Barnard,BIOB
+135,Biomedical Engineering,BMEN
+136,Biomedical Informatics,BINF
+137,Biostatistics,BIST
+138,Business Economics,BUEC
+139,"Cellular, Molecular, and Biophysical Studies",CMBS
+140,Chemical Engineering,CHEN
+141,Chemistry,CHEM
+142,Chemistry @Barnard,CHMB
+143,Classics @Barnard,CLSB
+144,Columbia College,COLL
+145,Comparative Literature and Society @Barnard,CSOB
+146,Center for Comparative Literature and Society,CCLS
+147,Computer Science @Barnard,COMB
+148,Consortium for Critical Interdisciplinary Studies @Barnard,CCIB
+149,Construction Administration,CNAD
+150,Dance @Barnard,DANB
+151,"Decision, Risk and Operations",DROM
+152,Dental and Oral Surgery,DEOS
+153,Dermatology,DERM
+154,Earth Institute,EI
+155,East Asian Regional Studies,EARS
+156,Economics @Barnard,ECOB
+157,Education @Barnard,EDNB
+158,Emergency Medicine,EMED
+159,Engineering,ENGI
+160,English @Barnard,ENGB
+161,Enterprise Risk Management,ERM
+162,Environmental Health Sciences,EHSC
+163,Environmental Sciences @Barnard,ENSB
+164,Epidemiology,EPID
+165,Epidemiology: Exec Master Program,EXEP
+166,Executive Classes in Public Health,EXEC
+167,Film @Barnard,FLMB
+168,Finance,FINC
+169,Finance and Economics,FIEC
+170,First-Year Seminar Program @Barnard,FYSB
+171,First-Year Writing @Barnard,FYWB
+172,French @Barnard,FRNB
+173,General Public Health,GNPH
+174,General Studies,GEST
+175,Genetics and Development,GEND
+176,Genetic Counseling,GENC
+177,German @Barnard,GRMB
+178,Global Programs,DGLO
+179,Graduate School of Arts and Sciences,GSAS
+180,Health Policy & Management,HPMN
+181,History @Barnard,HSTB
+182,Human Capital Management,HCM
+183,Institute of Human Nutrition,HNUT
+184,Information & Knowledge Strat,IKNS
+185,Institute for Israel & Jewish Studies,IIJS
+186,Institute for Study of Human Rights,CSHR
+187,Insurance Management,IMGT
+188,Italian @Barnard,ITLB
+189,Juilliard,JUIL
+190,Language Resource Center,LRC
+191,Latin-american & Carib Rs,LCRS
+192,Mathematics @Barnard,MATB
+193,Medieval and Renaissance Studies,MRST
+194,Microbiology,MICR
+195,Modern European Studies,MEUS
+196,Music @Barnard,MUSB
+197,Narrative Medicine,NMED
+198,Negotiation & Conflict Resolution,NECR
+199,Neurobiology and Behavior,NBIO
+200,Neurology,NEUR
+201,Neuroscience & Behavior @Barnard,NRSB
+202,Neurosurgery,NUSR
+203,Non Profit Management,NOPM
+204,Nursing,NURS
+205,Obstetrics and Gynecology,OBSG
+206,Ophthalmology,OPHT
+207,Oral History,ORHS
+208,Otolaryngology / Head and Neck Surgery,OTOL
+209,Pathology,PATH
+210,Pediatrics,PEDI
+211,Pharmacology,PHAR
+212,Philosophy @Barnard,PHLB
+213,Physical Education @Barnard,PEDB
+214,Physics and Astronomy @Barnard,PHYB
+215,Physiology & Cellular Biophysics,PHYG
+216,Political Science @Barnard,PLSB
+217,Population and Family Health,POPF
+218,Pre-College Program (Barnard),SHSP
+219,Psychiatry,PSCY
+220,Psychoanalytic Center,PSCC
+221,Psychology @Barnard,PSYB
+222,Public Health,PUBH
+223,Quantitative Methods/Social Sciences,QMSS
+224,Radiology,RADI
+225,Rehabilitation Medicine,RMED
+226,Religion @Barnard,RELB
+227,Russian Eurasian E. European,RERS
+228,School of Professional Studies,DVSP
+229,Science and Public Policy @Barnard,SCPB
+230,Slavic Languages @Barnard,SLAB
+231,Social Work,SOCW
+232,Sociology @Barnard,SOCB
+233,Sociomedical Sciences,SOSC
+234,Spanish and Latin American Culture,SPNB
+235,Sports Management,SPRT
+236,Strategic Communication,COMM
+237,Summer Session,SUMM
+238,Surgery,SURG
+239,Sustainability Management,SUMA
+240,Sustainability Science,SUSC
+241,Technology Management,TMGT
+242,Theatre @Barnard,THEB
+243,Undergraduate Writing Program,UWRT
+244,Union Theological Seminary,UTSD
+245,Urban Studies @Barnard,URSB
+246,Urology,UROL
+247,Video Network,VDEO
+248,Wealth Management,WMGT
+249,"Women's, Gender, Sexuality Studies @Barnard",WSTB
+250,Cognitive Science @Barnard,COGS
+251,Cognitive Science,COGS
