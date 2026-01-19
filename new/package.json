@@ -1,5 +1,5 @@
 {
-  "name": "wawro-ac",
+  "name": "",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -35,6 +35,6 @@
     "USE_EYE_NAV": false,
     "USE_COVER_HED": false,
     "IS_EMBED": false,
-    "DOC_URL": "https://docs.google.com/document/d/1SXm7d0s5XGoCtwXSMxRvD0fvzcnBlaFwVKZRVliUIsA/edit?tab=t.0"
+    "DOC_URL": null
   }
 }
