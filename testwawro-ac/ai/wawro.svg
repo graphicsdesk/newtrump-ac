@@ -1,0 +1,2293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 300 884.9">
+  <!-- Generator: Adobe Illustrator 29.3.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 151)  -->
+  <defs>
+    <style>
+      .st0, .st1 {
+        fill: #76b7b2;
+      }
+
+      .st2 {
+        font-size: 13px;
+      }
+
+      .st2, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16, .st17, .st18, .st19, .st20, .st21, .st1, .st22, .st23, .st24, .st25, .st26 {
+        isolation: isolate;
+      }
+
+      .st2, .st5, .st7, .st8, .st9, .st10, .st12, .st14, .st15, .st18, .st21, .st1, .st24, .st25 {
+        font-family: Roboto-Regular, Roboto;
+      }
+
+      .st3 {
+        stroke: #af7aa1;
+      }
+
+      .st3, .st4, .st13, .st17, .st19, .st22, .st23 {
+        fill: none;
+        opacity: .4;
+      }
+
+      .st3, .st17 {
+        stroke-width: 5.3px;
+      }
+
+      .st27, .st25 {
+        fill: #edc949;
+      }
+
+      .st4 {
+        stroke: #af3098;
+        stroke-width: 8px;
+      }
+
+      .st5, .st10, .st12, .st18, .st20, .st1, .st25 {
+        font-size: 14px;
+      }
+
+      .st5, .st28 {
+        fill: #af7aa1;
+      }
+
+      .st6 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+      }
+
+      .st6, .st15 {
+        font-size: 15px;
+      }
+
+      .st7, .st9 {
+        fill: #9e9e9e;
+      }
+
+      .st7, .st14 {
+        font-size: 12px;
+      }
+
+      .st29 {
+        stroke-linecap: round;
+      }
+
+      .st29, .st30 {
+        fill: #f28e2c;
+      }
+
+      .st29, .st22 {
+        stroke: #f28e2c;
+      }
+
+      .st8, .st9 {
+        font-size: 16px;
+      }
+
+      .st31 {
+        fill: #e15759;
+      }
+
+      .st12, .st32 {
+        fill: #59a14f;
+      }
+
+      .st13 {
+        stroke: #76b7b2;
+        stroke-width: 71.6px;
+      }
+
+      .st16 {
+        font-size: 20px;
+      }
+
+      .st16, .st20, .st26 {
+        font-family: Roboto-Bold, Roboto;
+        font-weight: 700;
+      }
+
+      .st17 {
+        stroke: #edc949;
+      }
+
+      .st33, .st18 {
+        fill: #af5b98;
+      }
+
+      .st19 {
+        stroke: #e15759;
+        stroke-width: 124.6px;
+      }
+
+      .st34 {
+        fill: #fff;
+        fill-opacity: .8;
+      }
+
+      .st21 {
+        font-size: 12.1px;
+      }
+
+      .st22 {
+        stroke-width: 161.7px;
+      }
+
+      .st23 {
+        stroke: #59a14f;
+        stroke-width: 34.5px;
+      }
+
+      .st24 {
+        font-size: 18px;
+      }
+
+      .st35 {
+        fill: #4e79a7;
+      }
+
+      .st26 {
+        font-size: 28px;
+      }
+    </style>
+  </defs>
+  <path id="flow0" class="st22" d="M-1882.5,265.9c114.8,0,114.8-96.4,229.5-96.4"/>
+  <path id="flow1" class="st19" d="M-1882.5,409.1c114.8,0,114.8,65.2,229.5,65.2"/>
+  <path id="flow2" class="st13" d="M-1638,447.8c105.3,0,105.3-103.9,210.5-103.9"/>
+  <path id="flow3" class="st23" d="M-1638,500.8c105.3,0,105.3-61.1,210.5-61.1"/>
+  <path id="flow6" class="st4" d="M-1638,532.6c105.3,0,105.3,47.3,210.5,47.3"/>
+  <path id="flow4" class="st17" d="M-1638,520.7c105.3,0,105.3-23.4,210.5-23.4"/>
+  <path id="flow5" class="st3" d="M-1638,526c105.3,0,105.3,11.1,210.5,11.1"/>
+  <rect id="r0" class="st35" x="-1897.5" y="185.1" width="15" height="286.4"/>
+  <rect id="r1" class="st30" x="-1653" y="88.7" width="15" height="161.7"/>
+  <rect id="r2" class="st31" x="-1653" y="412" width="15" height="124.6"/>
+  <rect id="r3" class="st0" x="-1427.4" y="308.1" width="15" height="71.6"/>
+  <rect id="r4" class="st32" x="-1427.4" y="422.5" width="15" height="34.5"/>
+  <rect id="r5" class="st27" x="-1427.4" y="494.6" width="15" height="5.3"/>
+  <rect id="r6" class="st28" x="-1427.4" y="534.5" width="15" height="5.3"/>
+  <rect id="r7" class="st33" x="-1427.4" y="575.9" width="15" height="8"/>
+  <g class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <text class="st24" transform="translate(-2075.2 327.2)"><tspan x="0" y="0">108:</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <text class="st24" transform="translate(-2036.5 327.2)"><tspan x="0" y="0">Total events</tspan></text>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <text class="st24" transform="translate(-2036.5 348.8)"><tspan x="0" y="0">identified as</tspan></text>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <text class="st24" transform="translate(-2036.5 370.4)"><tspan x="0" y="0">demonstrations</tspan></text>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <text class="st24" transform="translate(-1623.7 160)"><tspan x="0" y="0">61:</tspan></text>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <text class="st24" transform="translate(-1592.2 160)"><tspan x="0" y="0">Demonstrations that</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <text class="st24" transform="translate(-1592.2 181.6)"><tspan x="0" y="0">did not undergo the</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <text class="st24" transform="translate(-1592.2 203.2)"><tspan x="0" y="0">Rules process</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect id="label2_bg" class="st34" x="-1730" y="437.2" width="139.7" height="77"/>
+  <g id="label2" class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <text class="st15" transform="translate(-1725.6 453.2)"><tspan x="0" y="0">47:</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <text class="st15" transform="translate(-1699.9 453.2)"><tspan x="0" y="0">Demonstrations</tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <text class="st15" transform="translate(-1699.9 471.2)"><tspan x="0" y="0">reviewed</tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <text class="st15" transform="translate(-1699.9 489.2)"><tspan x="0" y="0">through the</tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <text class="st15" transform="translate(-1699.9 507.2)"><tspan x="0" y="0">Rules process</tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <text class="st24" transform="translate(-1404.6 349.5)"><tspan x="0" y="0">27:</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <text class="st24" transform="translate(-1377.2 349.5)"><tspan x="0" y="0">Dismissed for a variety of reasons</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <text class="st24" transform="translate(-1404.6 445.4)"><tspan x="0" y="0">13:</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <text class="st24" transform="translate(-1377.2 445.4)"><tspan x="0" y="0">The ORA pursued “other disciplinary processes.”</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <text class="st24" transform="translate(-1404.6 503.5)"><tspan x="0" y="0">2:</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <text class="st24" transform="translate(-1377.2 503.5)"><tspan x="0" y="0">Complaints resolved via informal resolutions</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <text class="st24" transform="translate(-1404.6 541.1)"><tspan x="0" y="0">2:</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <text class="st8" transform="translate(-1377.2 539.3)"><tspan x="0" y="0">ORA filed charges with UJB</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <text class="st8" transform="translate(-1377.2 558.5)"><tspan x="0" y="0">(failure to respond to attempts for informal resolutions).</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <text class="st24" transform="translate(-1404.6 586.8)"><tspan x="0" y="0">3:</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <text class="st26" transform="translate(-2075.2 47.9)"><tspan x="0" y="0">How demonstrations resulted in 2024 and 2025, according to the report</tspan></text>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <text class="st9" transform="translate(-2075.2 661.2)"><tspan x="0" y="0">Note: ORA stands for “Office of Rules Administration.” UJB stands for “University Judicial Board.”</tspan></text>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <text class="st9" transform="translate(-2075.2 680.4)"><tspan x="0" y="0">Source: Office of Rules Administration 2024-2025 Annual Report</tspan></text>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <text class="st9" transform="translate(-2075.2 699.6)"><tspan x="0" y="0">Made with SankeyMATIC.com</tspan></text>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <text class="st9" transform="translate(-2075.2 718.8)"><tspan x="0" y="0">Graphic by Alison Chiu</tspan></text>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <text class="st8" transform="translate(-1378.1 587.5)"><tspan x="0" y="0">ORA filed charges with UJB</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <text class="st8" transform="translate(-1378.1 606.7)"><tspan x="0" y="0">(due to seriousness of charges).</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_12">
+    <g id="Layer_11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <g class="st11">
+                            <g class="st11">
+                              <g class="st11">
+                                <text class="st20" transform="translate(13.2 33.3)"><tspan x="0" y="0">How demonstrations resulted in 2024 and</tspan></text>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <g class="st11">
+                            <g class="st11">
+                              <g class="st11">
+                                <text class="st20" transform="translate(13.2 50.1)"><tspan x="0" y="0">2025, according to the report</tspan></text>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g>
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <g class="st11">
+                            <g class="st11">
+                              <text class="st7" transform="translate(12.4 791.2)"><tspan x="0" y="0">Note: ORA stands for “Office of Rules Administration.”</tspan></text>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <g class="st11">
+                            <g class="st11">
+                              <text class="st7" transform="translate(12.4 805.6)"><tspan x="0" y="0">UJB stands for “University Judicial Board.”</tspan></text>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <g class="st11">
+                            <g class="st11">
+                              <text class="st7" transform="translate(12.2 820.3)"><tspan x="0" y="0">Source: Office of Rules Administration 2024-2025</tspan></text>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <g class="st11">
+                            <g class="st11">
+                              <text class="st7" transform="translate(12.2 834.7)"><tspan x="0" y="0">Annual Report</tspan></text>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <g class="st11">
+                            <g class="st11">
+                              <text class="st7" transform="translate(12.1 851.5)"><tspan x="0" y="0">Made with SankeyMATIC.com</tspan></text>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <g class="st11">
+                            <g class="st11">
+                              <text class="st7" transform="translate(13 866.6)"><tspan x="0" y="0">Graphic by Alison Chiu</tspan></text>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <path id="flow12" class="st19" d="M191.1,113.3c-.2,114.8-64.6,114.7-64.8,229.4"/>
+      <path id="flow22" class="st13" d="M152.4,357.7c-.2,105.3,102.4,105.5,102.2,210.7"/>
+      <path id="flow32" class="st23" d="M100,357.6c-.2,105.3,60.2,105.4,60,210.6"/>
+      <path id="flow62" class="st4" d="M68.6,357.6c-.2,105.3-46.9,105.2-47.1,210.4"/>
+      <path id="flow42" class="st17" d="M80.4,357.6c-.2,105.3,22.9,105.3,22.7,210.5"/>
+      <path id="flow52" class="st3" d="M75.1,357.6c-.2,105.3-11.2,105.3-11.4,210.5"/>
+      <rect id="r02" class="st35" x="155.2" y="15.2" width="15" height="181.3" transform="translate(56.6 268.4) rotate(-89.9)"/>
+      <rect id="r22" class="st31" x="118.7" y="288.6" width="15" height="123.1" transform="translate(-224.2 475.7) rotate(-89.9)"/>
+      <rect id="r32" class="st0" x="246.9" y="540.9" width="15" height="70.7" transform="translate(-322.3 829.6) rotate(-89.9)"/>
+      <rect id="r42" class="st32" x="152.2" y="558.9" width="15" height="34.1" transform="translate(-416.5 734.6) rotate(-89.9)"/>
+      <rect id="r52" class="st27" x="95.7" y="573.2" width="15" height="5.2" transform="translate(-472.8 678) rotate(-89.9)"/>
+      <rect id="r62" class="st28" x="56.3" y="573.2" width="15" height="5.2" transform="translate(-512.1 638.6) rotate(-89.9)"/>
+      <rect id="r72" class="st33" x="13.8" y="571.9" width="15" height="7.9" transform="translate(-554.6 596.1) rotate(-89.9)"/>
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <g class="st11">
+                            <g class="st11">
+                              <g class="st11">
+                                <g class="st11">
+                                  <text class="st2" transform="translate(13.3 82.5)"><tspan x="0" y="0">108: Total events identified as demonstrations</tspan></text>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <polygon class="st29" points="64.7 158.1 65.2 171.1 79 165.5 73.5 161 108.2 117 98.1 117 69.7 159.7 64.7 158.1"/>
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <g class="st11">
+                            <g class="st11">
+                              <g class="st11">
+                                <text class="st10" transform="translate(14.8 187.4)"><tspan x="0" y="0">61: Demonstrations</tspan></text>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <g class="st11">
+                            <g class="st11">
+                              <g class="st11">
+                                <text class="st10" transform="translate(14.8 204.2)"><tspan x="0" y="0">that did not undergo</tspan></text>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <g class="st11">
+                            <g class="st11">
+                              <g class="st11">
+                                <text class="st10" transform="translate(14.8 221)"><tspan x="0" y="0">the Rules process</tspan></text>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <g class="st11">
+                            <g class="st11">
+                              <text class="st10" transform="translate(70.8 301.8)"><tspan x="0" y="0">47: Demonstrations</tspan></text>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <g class="st11">
+                            <g class="st11">
+                              <text class="st10" transform="translate(70.8 318.6)"><tspan x="0" y="0">reviewed through</tspan></text>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <g class="st11">
+                            <g class="st11">
+                              <text class="st10" transform="translate(70.8 335.4)"><tspan x="0" y="0">the Rules process</tspan></text>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <g class="st11">
+                            <g class="st11">
+                              <g class="st11">
+                                <text class="st1" transform="translate(14.2 615.5)"><tspan x="0" y="0">27: Dismissed for a variety of reasons</tspan></text>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <g class="st11">
+                            <g class="st11">
+                              <g class="st11">
+                                <text class="st12" transform="translate(14.2 632.3)"><tspan x="0" y="0">13: The ORA pursued “other disciplinary</tspan></text>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <g class="st11">
+                            <g class="st11">
+                              <g class="st11">
+                                <text class="st12" transform="translate(14.2 649.1)"><tspan x="0" y="0">processes.”</tspan></text>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <g class="st11">
+                            <g class="st11">
+                              <g class="st11">
+                                <text class="st25" transform="translate(14.2 665.9)"><tspan x="0" y="0">2: Complaints resolved via informal</tspan></text>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <g class="st11">
+                            <g class="st11">
+                              <g class="st11">
+                                <text class="st25" transform="translate(14.2 682.7)"><tspan x="0" y="0">resolutions</tspan></text>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <g class="st11">
+                            <g class="st11">
+                              <g class="st11">
+                                <text class="st5" transform="translate(14.2 699.5)"><tspan x="0" y="0">2: ORA filed charges with UJB (failure to</tspan></text>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <g class="st11">
+                            <g class="st11">
+                              <g class="st11">
+                                <text class="st5" transform="translate(14.2 716.3)"><tspan x="0" y="0">respond to attempts for informal resolu</tspan></text>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <g class="st11">
+                            <g class="st11">
+                              <g class="st11">
+                                <text class="st5" transform="translate(253.9 716.3)"><tspan x="0" y="0">-</tspan></text>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <g class="st11">
+                            <g class="st11">
+                              <g class="st11">
+                                <text class="st5" transform="translate(14.2 733.1)"><tspan x="0" y="0">tions).</tspan></text>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <g class="st11">
+                            <g class="st11">
+                              <g class="st11">
+                                <text class="st18" transform="translate(14.2 749.9)"><tspan x="0" y="0">3: ORA filed charges with UJB (due to seri</tspan></text>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <g class="st11">
+                            <g class="st11">
+                              <g class="st11">
+                                <text class="st18" transform="translate(276.4 749.9)"><tspan x="0" y="0">-</tspan></text>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <g class="st11">
+                            <g class="st11">
+                              <g class="st11">
+                                <text class="st18" transform="translate(14.2 766.7)"><tspan x="0" y="0">ousness of charges).</tspan></text>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <path id="flow01" class="st22" d="M-735,192.6c102.6,0,102.6-86.1,205.1-86.1"/>
+  <path id="flow11" class="st19" d="M-735,320.6c102.6,0,102.6,58.3,205.1,58.3"/>
+  <path id="flow21" class="st13" d="M-516.5,355.2c94.1,0,94.1-92.8,188.1-92.8"/>
+  <path id="flow31" class="st23" d="M-516.5,402.5c94.1,0,94.1-54.6,188.1-54.6"/>
+  <path id="flow61" class="st4" d="M-516.5,430.9c94.1,0,94.1,42.3,188.1,42.3"/>
+  <path id="flow41" class="st17" d="M-516.5,420.3c94.1,0,94.1-20.9,188.1-20.9"/>
+  <path id="flow51" class="st3" d="M-516.5,425c94.1,0,94.1,9.9,188.1,9.9"/>
+  <rect id="r01" class="st35" x="-748.4" y="112" width="13.8" height="270.2"/>
+  <rect id="r11" class="st30" x="-529.9" y="26.1" width="13.4" height="160.8"/>
+  <rect id="r21" class="st31" x="-529.9" y="316.4" width="13.4" height="124.9"/>
+  <rect id="r31" class="st0" x="-328.3" y="226.4" width="13.4" height="70.9"/>
+  <rect id="r41" class="st32" x="-328.3" y="330.6" width="13.4" height="34.7"/>
+  <rect id="r51" class="st27" x="-328.3" y="397" width="13.4" height="4.7"/>
+  <rect id="r61" class="st28" x="-328.3" y="432.6" width="13.4" height="4.7"/>
+  <rect id="r71" class="st33" x="-328.3" y="469.6" width="13.4" height="7.1"/>
+  <g class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <text class="st10" transform="translate(-497.9 100.1)"><tspan x="0" y="0">61:</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <text class="st10" transform="translate(-473.4 100.1)"><tspan x="0" y="0">Demonstrations that</tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <text class="st10" transform="translate(-473.4 121.7)"><tspan x="0" y="0">did not undergo the</tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <text class="st10" transform="translate(-473.4 143.3)"><tspan x="0" y="0">Rules process</tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect id="label2_bg1" class="st34" x="-585.7" y="339" width="139.7" height="77"/>
+  <g id="label21" class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <text class="st10" transform="translate(-581.3 355)"><tspan x="0" y="0">47:</tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <g class="st11">
+                            <text class="st10" transform="translate(-555.6 355)"><tspan x="0" y="0">Demonstrations</tspan></text>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <g class="st11">
+                            <text class="st10" transform="translate(-555.6 373)"><tspan x="0" y="0">reviewed</tspan></text>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <g class="st11">
+                            <text class="st10" transform="translate(-555.6 391)"><tspan x="0" y="0">through the</tspan></text>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <g class="st11">
+                            <text class="st10" transform="translate(-555.6 409)"><tspan x="0" y="0">Rules process</tspan></text>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <text class="st14" transform="translate(-310.7 393.8)"><tspan x="0" y="0">Complaints resolved</tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <text class="st14" transform="translate(-310.7 408.2)"><tspan x="0" y="0">via informal resolutions</tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <text class="st14" transform="translate(-325.4 426.6)"><tspan x="0" y="0">2:</tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <text class="st14" transform="translate(-311.3 427.1)"><tspan x="0" y="0">ORA filed charges with</tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <text class="st14" transform="translate(-311.3 441.5)"><tspan x="0" y="0">UJB (failure to respond</tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <text class="st14" transform="translate(-311.3 455.9)"><tspan x="0" y="0">to attempts for informal</tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <text class="st14" transform="translate(-311.3 470.3)"><tspan x="0" y="0">resolutions).</tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <text class="st14" transform="translate(-324.9 493.9)"><tspan x="0" y="0">3:</tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <text class="st16" transform="translate(-744.3 -1.3)"><tspan x="0" y="0">How demonstrations resulted in 2024 and 2025, according to</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <text class="st16" transform="translate(-744.3 22.7)"><tspan x="0" y="0">the report</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <text class="st21" transform="translate(-328.3 221.4)"><tspan x="0" y="0">27:</tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <text class="st14" transform="translate(-309.5 221.3)"><tspan x="0" y="0">Dismissed</tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <text class="st14" transform="translate(-309.5 235.7)"><tspan x="0" y="0">for a variety</tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <text class="st14" transform="translate(-309.5 250.1)"><tspan x="0" y="0">of reasons</tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect id="label2_bg2" class="st34" x="-719.9" y="256.1" width="139.7" height="72.5"/>
+  <g class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <text class="st10" transform="translate(-714.8 275.8)"><tspan x="0" y="0">108:</tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <text class="st10" transform="translate(-683.1 275.8)"><tspan x="0" y="0">Total events</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <text class="st10" transform="translate(-683.1 297.4)"><tspan x="0" y="0">identified as</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <text class="st10" transform="translate(-683.1 319)"><tspan x="0" y="0">demonstrations</tspan></text>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <text class="st14" transform="translate(-327.4 325)"><tspan x="0" y="0">13:</tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <text class="st14" transform="translate(-309.3 324.8)"><tspan x="0" y="0">The ORA</tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <text class="st14" transform="translate(-309.3 339.2)"><tspan x="0" y="0">pursued “other</tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <text class="st14" transform="translate(-309.3 353.6)"><tspan x="0" y="0">disciplinary</tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <text class="st14" transform="translate(-309.3 368)"><tspan x="0" y="0">processes.”</tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <g class="st11">
+                        <g class="st11">
+                          <text class="st14" transform="translate(-325.3 392.5)"><tspan x="0" y="0">2:</tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <text class="st9" transform="translate(-748.2 545.3)"><tspan x="0" y="0">Note: ORA stands for “Office of Rules Administration.” UJB stands for</tspan></text>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <text class="st9" transform="translate(-748.2 564.5)"><tspan x="0" y="0">“University Judicial Board.”</tspan></text>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <text class="st9" transform="translate(-747.4 583.1)"><tspan x="0" y="0">Source: Office of Rules Administration 2024-2025 Annual</tspan></text>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <text class="st9" transform="translate(-747.4 602.3)"><tspan x="0" y="0">Made with SankeyMATIC.com</tspan></text>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <text class="st9" transform="translate(-377.9 602.3)"><tspan x="0" y="0">-</tspan></text>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <text class="st9" transform="translate(-747.4 621.5)"><tspan x="0" y="0">Graphic by Alison</tspan></text>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st11">
+    <g class="st11">
+      <g class="st11">
+        <g class="st11">
+          <g class="st11">
+            <g class="st11">
+              <g class="st11">
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <text class="st14" transform="translate(-312.9 494.2)"><tspan x="0" y="0">ORA filed charges with</tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <text class="st14" transform="translate(-312.9 508.6)"><tspan x="0" y="0">UJB (due to seriousness</tspan></text>
+                    </g>
+                  </g>
+                </g>
+                <g class="st11">
+                  <g class="st11">
+                    <g class="st11">
+                      <text class="st14" transform="translate(-312.9 523)"><tspan x="0" y="0">of charges).</tspan></text>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="ai2html-settings">
+    <g id="ai2html-settings1" class="st11">
+      <text class="st6" transform="translate(-2584.2 -20.1)"><tspan x="0" y="0">ai2html-settings</tspan></text>
+      <text class="st6" transform="translate(-2584.2 -1.1)"><tspan x="0" y="0">settings_version: 0.121.1</tspan></text>
+      <text class="st6" transform="translate(-2584.2 17.9)"><tspan x="0" y="0">image_format: auto</tspan></text>
+      <text class="st6" transform="translate(-2584.2 36.9)"><tspan x="0" y="0">responsiveness: fixed</tspan></text>
+      <text class="st6" transform="translate(-2584.2 55.9)"><tspan x="0" y="0">include_resizer_script: false</tspan></text>
+      <text class="st6" transform="translate(-2584.2 74.9)"><tspan x="0" y="0">use_lazy_loader: false</tspan></text>
+      <text class="st6" transform="translate(-2584.2 93.9)"><tspan x="0" y="0">output: one-file</tspan></text>
+      <text class="st6" transform="translate(-2584.2 112.9)"><tspan x="0" y="0">html_output_path: ../src/</tspan></text>
+      <text class="st6" transform="translate(-2584.2 131.9)"><tspan x="0" y="0">image_output_path: ../assets/</tspan></text>
+      <text class="st6" transform="translate(-2584.2 149.9)"><tspan x="0" y="0">image_source_path: ../assets/ </tspan></text>
+      <text class="st6" transform="translate(-2584.2 167.9)"><tspan x="0" y="0">html_source_path: ../assets/</tspan></text>
+      <text class="st6" transform="translate(-2584.2 186.9)"><tspan x="0" y="0">local_preview_template: </tspan></text>
+      <text class="st6" transform="translate(-2584.2 205.9)"><tspan x="0" y="0">png_number_of_colors: 128</tspan></text>
+      <text class="st6" transform="translate(-2584.2 224.9)"><tspan x="0" y="0">jpg_quality: 60</tspan></text>
+      <text class="st6" transform="translate(-2584.2 243.9)"><tspan x="0" y="0">headline: </tspan></text>
+      <text class="st6" transform="translate(-2584.2 262.9)"><tspan x="0" y="0">leadin: </tspan></text>
+      <text class="st6" transform="translate(-2584.2 281.9)"><tspan x="0" y="0">notes: </tspan></text>
+      <text class="st6" transform="translate(-2584.2 300.9)"><tspan x="0" y="0">sources: </tspan></text>
+      <text class="st6" transform="translate(-2584.2 319.9)"><tspan x="0" y="0">credit:</tspan></text>
+    </g>
+  </g>
+</svg>

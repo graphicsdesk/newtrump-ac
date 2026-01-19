@@ -7,12 +7,126 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "The Office of Rules Administration’s annual report for the 2024–25 academic year, released on Dec. 4, 2025,  details how formal charges for protest-related violations of the Rules of University Conduct were the exception rather than the norm last year."
+          },
+          {
+            "type": "text",
+            "value": "The report, published alongside a press<a href=\"https://news.columbia.edu/news/conversation-gregory-wawro-rules-administrator\"> </a><a href=\"https://news.columbia.edu/news/conversation-gregory-wawro-rules-administrator\">release</a> that contains a conversation with Rules Administrator and political science professor Gregory Wawro, outlines how Columbia applied the Rules in a year marked by continued student protest activity."
+          },
+          {
+            "type": "text",
+            "value": "According to the report, out of more than 63,000 events held on Columbia’s campuses, 108 were categorized as demonstrations. Of those 108, only five ultimately resulted in formal charges being filed with the University Judicial Board, involving 78 respondents and leading to sanctions ranging from probation to suspension, expulsion, degree revocation, and campus access restrictions."
+          },
+          {
+            "type": "text",
+            "value": "Most of the demonstrations detailed in the report were organized in protest of the war in Gaza. These included the April 2024 “<a href=\"https://www.columbiaspectator.com/news/2024/05/02/timeline-the-gaza-solidarity-encampment/\">Gaza Solidarity Encampment</a>” on South Lawn and the subsequent Hamilton Hall <a href=\"https://www.columbiaspectator.com/news/2024/04/30/hamilton-hall-occupation-continues-as-columbia-further-locks-down-campus/\">occupation</a>. The University authorized the New York Police Department to enter campus twice in April 2024, resulting in over 200 arrests."
+          },
+          {
+            "type": "text",
+            "value": "Students held a demonstration in the Lawrence A. Wien Reading Room in <a href=\"https://www.columbiaspectator.com/news/2025/05/08/nypd-confirms-78-arrests-at-butler-library-protest-all-released-from-custody/\">Butler</a> Library on May 7, 2025. In a shift from the protests in 2024, Public Safety officers at the Butler demonstration <a href=\"https://www.columbiaspectator.com/news/2025/05/07/pro-palestinian-protesters-and-public-safety-officers-clash-at-emergency-rally-in-butler-library/\">pushed</a>, shoved, and forced multiple protesters to the ground. The officers blocked the exits and entrances in the reading room, requiring students to show identification in order to leave. Students who showed their IDs received disciplinary notices, while those who did not were unable to leave the room when a buildingwide fire alarm was triggered. <a href=\"https://www.columbiaspectator.com/news/2025/05/08/nypd-confirms-78-arrests-at-butler-library-protest-all-released-from-custody/\">Columbia</a> authorized NYPD entry, resulting in 78 arrests. In July, after a series of UJB hearings, Columbia announced sanctions—including suspensions, expulsions, and degree revocations—for more than 70 students reportedly involved in the Butler demonstration."
+          },
+          {
+            "type": "text",
+            "value": "“Columbia continues to be a place where members of the community engage actively in free expression through demonstrations,” the report reads."
+          },
+          {
+            "type": "text",
+            "value": "Of the 108 demonstrations recorded in the 2024-25 academic year, 47 were reviewed through the Rules process after University delegates, Public Safety, or other community members submitted complaints. Complaints related to 27 of those demonstrations were dismissed for a variety of reasons, including no clear Rules violation or a lack of evidence to support charges, according to the report."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "wawro.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "For 13 demonstrations, the Rules office declined to pursue charges because other disciplinary processes were deemed more appropriate. In several other cases, the Rules Administrator opted for informal resolutions after “thorough discussion about the Rules and the behavior in question,” with formal charges reserved either for respondents who did not engage with the process or for cases the office described as especially serious."
+          },
+          {
+            "type": "text",
+            "value": "The Rules, which govern demonstrations and related conduct, “protect both demonstration activity and the integrity of the University’s academic mission” by setting time, place, and manner restrictions and outlining procedural protections for those accused of violations, according to the report."
+          },
+          {
+            "type": "text",
+            "value": "The affirmative statement of the Rules emphasizes that members of the University have the right to speak, study, teach, and research, and that “the right to demonstrate, for example, cannot come at the expense of the right of others to counter-demonstrate, to teach, or to engage in academic pursuits requiring uninterrupted attention.”"
+          },
+          {
+            "type": "text",
+            "value": "The office was expanded after former interim University President Katrina Armstrong appointed Wawro as Rules Administrator in fall 2024 and created new staff positions to support the role."
+          },
+          {
+            "type": "text",
+            "value": "In summer 2025, the University quietly changed the <a href=\"https://www.columbiaspectator.com/news/2025/10/22/columbia-quietly-changes-rules-governing-protests-and-discipline-for-first-time-in-10-years/\">Rules</a> for the first time since 2015, narrowing protest rights. The revisions removed students’ ability to request open hearings, guaranteed timelines for disciplinary process, and barred protests inside academic buildings."
+          },
+          {
+            "type": "text",
+            "value": "In the <a href=\"https://news.columbia.edu/news/conversation-gregory-wawro-rules-administrator\">press release</a> accompanying the report, Wawro said he believed his performance as Rules Administrator should be judged on “fairness, transparency, and efficiency.” He also noted that the University “could be more open with the community about what was going on with the Rules process.”"
+          },
+          {
+            "type": "text",
+            "value": "The report also denotes the pace of case processing. Across all matters, the average time between an incident and its resolution was about 18 business days. Dismissed cases were resolved in roughly 12 business days on average, while cases resolved through informal agreements took around 18 business days, partially because respondents were given time to decide whether to accept a proposed resolution."
+          },
+          {
+            "type": "text",
+            "value": "A large portion of the report was dedicated to the role played by University delegates, who are administrators appointed by the University president, or the Rules Administrator, both of whom attend events to monitor for potential violations and advise organizers in real time."
+          },
+          {
+            "type": "text",
+            "value": "Delegates do not have disciplinary authority; rather, they document observations, issue warnings when appropriate, and file reports with the Rules office."
+          },
+          {
+            "type": "text",
+            "value": "According to the report, during the 2024-25 academic year, delegates were present at 460 events—just 0.8 percent of the total events on campus. Delegate usage increased sharply compared to the previous year: The number of delegate-covered events rose by 91 percent, and total delegate service hours increased by 456 percent, reflecting an increased focus on demonstrations and protest management."
+          },
+          {
+            "type": "text",
+            "value": "The report emphasized a commitment to content neutrality, including how the office considers social media posts and other materials “purely for operational purposes and not evaluative of content” when determining whether an event follows the Rules."
+          },
+          {
+            "type": "text",
+            "value": "In the press release, Wawro pushed back on the notion that particular types of speech are singled out for disciplinary actions, noting that more than 100 demonstrations across a range of topics did not lead to formal filings."
+          },
+          {
+            "type": "text",
+            "value": "Looking to the future, the office plans to expand outreach to Columbia affiliates and will clarify recent changes to the Rules and UJB structure. It also aims to streamline how sanctions are communicated and carried out across different schools and offices, and to enhance delegate training in conflict resolution and de-escalation."
+          },
+          {
+            "type": "text",
+            "value": "Wawro emphasized the importance of the annual report in maintaining accountability and transparency about University actions."
+          },
+          {
+            "type": "text",
+            "value": "“If you’re not telling people what you’re doing, they might think you’re not doing anything or somehow you’re trying to hide what you’re doing,” Wawro said. “The annual report is important in terms of opening up what’s going on in the process.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy News Editor Dora Gao can be contacted at </i><a href=\"mailto:dora.gao@columbiaspectator.com\"><i>dora.gao@columbiaspectator.com</i></a><i>. Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Data Visualization Editor Alison Chiu can be contacted at </i><a href=\"mailto:alison.chiu@columbiaspectator.com\"><i>alison.chiu@columbiaspectator.com</i></a><i>. Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "Five of the 108 demonstrations last year resulted in formal charges, new report states",
+        "dek": "The Office of Rules Administration’s inaugural report outlined how Columbia processed complaints from 108 demonstrations, ramped up delegate deployment, and launched broader outreach to explain the Rules of University Conduct.",
+        "date": "January 17, 2026",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/dora-gao/\">Dora Gao</a>",
+        "byline2": "Graphic by <a href=\"https://www.columbiaspectator.com/contributors/alison-chiu/\">Alison Chiu</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/S2XEIXDFC5HK5FD7LV32TMSMH4.jpg",
+        "cover_caption": "Sofia Wadler / Staff Photographer",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1SXm7d0s5XGoCtwXSMxRvD0fvzcnBlaFwVKZRVliUIsA/edit?tab=t.0"
       }
     }
   }
