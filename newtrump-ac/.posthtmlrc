@@ -387,7 +387,7 @@
         "cover_caption": "Saumya Chaudhry and Sally Weitzner / Illustrations Editor and Staff Illustrator",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
         "DOC_URL": "https://docs.google.com/document/d/1J6xxM8D8ngC-wI5k-0OfC5BqG7LDaRNZLhiTcNP8wd8/edit?tab=t.0"
       }
