@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "parcel src/index.html --global script",
-    "build": "parcel build src/index.html --global script --public-url . --no-content-hash",
+    "build": "parcel build src/index.html --global script --public-url https://spectator-static-assets.s3.amazonaws.com/newtrump-ac --no-content-hash",
     "postinstall": "patch-package"
   },
   "devDependencies": {
@@ -35,6 +35,6 @@
     "USE_EYE_NAV": false,
     "USE_COVER_HED": false,
     "IS_EMBED": false,
-    "DOC_URL": "https://docs.google.com/document/d/174OZlgnPsHEsZtouJMmT3rWxmYmtSct9BDki7wOaHsI/edit?tab=t.0"
+    "DOC_URL": "https://docs.google.com/document/d/1J6xxM8D8ngC-wI5k-0OfC5BqG7LDaRNZLhiTcNP8wd8/edit?tab=t.0"
   }
 }
