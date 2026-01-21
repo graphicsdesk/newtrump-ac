@@ -7,12 +7,335 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "One year into President Donald Trump’s second term, Columbia has been shaped by the administration, from drastic <a href=\"https://www.columbiaspectator.com/news/2025/03/07/trump-administration-cuts-400-million-in-federal-funding-to-columbia/\">federal funding cuts</a> to Immigration and Customs Enforcement arrests, to a <a href=\"https://www.columbiaspectator.com/news/2025/07/23/columbia-will-pay-220-million-in-deal-with-trump-administration-to-resume-federal-funding/\">multimillion-dollar settlement</a>—or “complete surrender,” as some have <a href=\"https://nymag.com/intelligencer/article/columbia-university-president-trump-board-of-trustees-students-protests.html\">characterized</a> it."
+          },
+          {
+            "type": "text",
+            "value": "One year into Trump’s first term in 2018, however, is “night and day” compared to the current climate, as Joseph Howley, associate professor of classics, described it."
+          },
+          {
+            "type": "text",
+            "value": "Back then, under the helm of then-University President Lee Bollinger, Law ’71, Columbia was not a constant fixture in headlines about higher education and politics."
+          },
+          {
+            "type": "text",
+            "value": "Following Trump’s 2016 election victory, Bollinger and University administrators <a href=\"https://magazine.columbia.edu/article/president-bollinger-and-campus-community-speak-out-against-trumps-stance-immigration\">criticized</a> several of the president’s policy proposals that threatened legal protections for immigrants. Though students had <a href=\"https://www.columbiaspectator.com/news/2017/11/09/one-year-after-presidential-election-students-call-on-university-to-bolster-its-responses-to-trump-policies/\">urged</a> the University to bolster support against the federal government’s actions, Columbia largely avoided the spotlight in Trump’s first term, as oversight on higher education did not occupy a prominent role in the president’s first-term agenda."
+          },
+          {
+            "type": "text",
+            "value": "<i>[Read more: </i><a href=\"https://www.columbiaspectator.com/news/2025/03/05/once-an-outspoken-supporter-of-daca-columbia-has-yet-to-publicly-comment-on-trumps-mass-deportations/\"><i>Once an outspoken supporter of DACA, Columbia has yet to publicly comment on Trump’s mass deportations</i></a><i>]</i>"
+          },
+          {
+            "type": "text",
+            "value": "However, following Bollinger’s <a href=\"https://www.columbiaspectator.com/news/2023/05/17/bollinger-bids-farewell-to-presidency-after-21-years-at-columbia/\">retirement</a> in May 2023, the University has experienced constant leadership instability. Low Library’s <a href=\"https://www.columbiaspectator.com/news/2025/10/13/columbia-has-appointed-three-woman-presidents-in-two-years-experts-vary-on-whether-there-is-a-glass-cliff-in-the-universitys-highest-office/\">revolving door</a> has cycled through three presidents in the last two years—<a href=\"https://www.columbiaspectator.com/news/2024/08/14/shafik-resigns-from-presidency/\">Minouche Shafik</a>, <a href=\"https://www.columbiaspectator.com/news/2025/03/28/armstrong-steps-down-as-interim-columbia-president-shipman-to-assumes-presidency/\">Katrina Armstrong</a>, and <a href=\"https://www.columbiaspectator.com/news/2025/04/01/with-armstrong-out-shipman-inherits-a-university-still-in-crisis/\">Claire Shipman</a>, CC ’86, SIPA ’94—and garnered <a href=\"https://www.columbiaspectator.com/news/2024/10/10/how-the-press-covered-columbias-protests-under-lockdown/\">national attention</a> due to campus protests, further exacerbated by prolonged oversight from the White House."
+          },
+          {
+            "type": "text",
+            "value": "In 11 interviews, experts all honed in on the heightened degree of scrutiny felt during the second Trump administration and their disappointment in Columbia’s compliance. The University declined to comment on the actions it has taken in the first year of Trump’s second term."
+          },
+          {
+            "type": "text",
+            "value": "“The first time Trump was president, our president and provost were telling us loud and clear, ‘We are not on board with this agenda,’” Howley said. “And this time it’s crickets, not a word of criticism or dissent from our leadership about anything in the Trump agenda.”"
+          },
+          {
+            "type": "text",
+            "value": "<b>‘I knew something was coming’: A political comeback</b>"
+          },
+          {
+            "type": "text",
+            "value": "Trump was inaugurated as the 47th president of the United States one year ago, capping off an unprecedented return to the national political stage."
+          },
+          {
+            "type": "text",
+            "value": "Robert Shapiro and Donald Green, political science professors, told Spectator that Trump’s political persona served as a harbinger for how he would deal with higher education in his second term."
+          },
+          {
+            "type": "text",
+            "value": "Green said that despite Trump’s background as a political outsider, “He’s far more political than most politicians in the sense that he is very much about retribution and revenge and score-settling.”"
+          },
+          {
+            "type": "text",
+            "value": "Months of criticizing higher education on the campaign trail, including direct <a href=\"https://www.columbiaspectator.com/news/2024/05/01/white-house-trump-comment-on-nypd-sweep-of-hamilton-hall-and-gaza-solidarity-encampment/\">critiques</a> of Columbia’s handling of the April 2024 “<a href=\"https://www.columbiaspectator.com/news/2024/05/02/timeline-the-gaza-solidarity-encampment/\">Gaza Solidarity Encampment</a>” and the <a href=\"https://www.columbiaspectator.com/news/2024/04/30/dozens-occupy-hamilton-hall-as-pro-palestinian-protests-spread-across-campus/\">Hamilton Hall occupation</a>, as well as concerns over antisemitism on campus, provided insight into how a second Trump administration would interact with Columbia."
+          },
+          {
+            "type": "text",
+            "value": "“Unless you’d read Project 2025 closely, I don’t think anybody saw this coming,” Anya Schiffrin, Journalism ’00, School of International and Public Affairs senior lecturer in international and public affairs, told Spectator. “The magnitude was surprising.”"
+          },
+          {
+            "type": "text",
+            "value": "The White House did not respond to Spectator’s multiple requests for comment on its efforts to scrutinize universities."
+          },
+          {
+            "type": "text",
+            "value": "Lincoln Mitchell, GSAS ’96, SIPA lecturer in international and public affairs and a political analyst, and Joseph Stiglitz, University Professor and winner of the 2001 Nobel Prize in economics, both said that the governing practice of Trump’s second term is different from that of his first."
+          },
+          {
+            "type": "text",
+            "value": "“There were those of us who knew a little bit, who interacted with the right,” Stiglitz told Spectator. “We knew that there was a grievance against universities in particular, but it wasn’t manifested in policy, in the way that it is this time.”"
+          },
+          {
+            "type": "text",
+            "value": "<b>‘Disingenuous’: Trump and Vance’s conflicting views on higher education</b>"
+          },
+          {
+            "type": "text",
+            "value": "Despite their criticism of higher education, both Trump and Vice President JD Vance received degrees from Ivy League universities."
+          },
+          {
+            "type": "text",
+            "value": "Mitchell noted Trump’s mastery in balancing the elite and non-elite factions of the American electorate."
+          },
+          {
+            "type": "text",
+            "value": "“He is masterful in that he comes from an extremely elite background and has always presented himself as an outsider and as a non-elite,” Mitchell said. “But that’s a matter of style. The way he speaks—the vulgarity, the inarticulateness—those are all ways that he communicates that he’s not really an elite.”"
+          },
+          {
+            "type": "text",
+            "value": "In the 2024 election, six in 10 Trump voters did not have a college degree, according to <a href=\"https://apnews.com/article/trump-key-coalitions-coalitions-ap-votecast-ce3d9fc91beae8d3647efd6d5e08b1d8\">The Associated Press</a>."
+          },
+          {
+            "type": "text",
+            "value": "Shapiro added that Trump’s “whole persona and his whole original base of support came about because of his criticism of the liberal elite in the United States.”"
+          },
+          {
+            "type": "text",
+            "value": "Like Trump, Vance has also presented himself as a critic of elite universities. In November 2021, four months after announcing his Senate bid, he aired out his critiques in a speech at the National Conservatism Conference titled “The Universities are the Enemy.”"
+          },
+          {
+            "type": "text",
+            "value": "“If any of us want to do the things that we want to do for our country, and for the people who live in it, we have to honestly and aggressively attack the universities in this country,” Vance said."
+          },
+          {
+            "type": "text",
+            "value": "Lynn Pasquerella, president of the American Association of Colleges and Universities, told Spectator that Trump and Vance’s views toward higher education are disingenuous because “they are condemning the systems from which they have benefited.”"
+          },
+          {
+            "type": "text",
+            "value": "Trump’s victory and return to the White House would ultimately see the <a href=\"https://www.columbiaspectator.com/news/2024/11/13/columbia-hoped-to-keep-heads-down-a-republican-trifecta-could-intensify-federal-scrutiny/\">ushering in</a> of a new governing mantra—one aimed at keeping its finger on the pulse of Columbia and other universities from the start."
+          },
+          {
+            "type": "text",
+            "value": "<b>‘A long struggle’: Columbia in the second Trump era</b>"
+          },
+          {
+            "type": "text",
+            "value": "Upon entering office, Trump immediately began to scrutinize higher education."
+          },
+          {
+            "type": "text",
+            "value": "In Trump’s first 10 days in office, he signed executive orders banning diversity, equity, and inclusion policies at institutions receiving federal funding and demanded that universities <a href=\"https://www.columbiaspectator.com/news/2025/01/30/trump-issues-executive-order-to-combat-campus-anti-semitism-report-activities-by-alien-students/\">monitor and report</a> “activities by alien students” in order to “combat campus anti-Semitism.” A February 2025 Spectator <a href=\"https://www.columbiaspectator.com/news/2025/02/19/columbia-alters-dei-statements-on-university-web-pages-amid-trump-executive-orders/\">analysis</a> found that Columbia removed or altered DEI statements from several University web pages following Trump’s executive orders."
+          },
+          {
+            "type": "text",
+            "value": "<i>[Read more: </i><a href=\"https://www.columbiaspectator.com/news/2025/02/10/armstrong-columbia-administrators-meeting-with-congressional-leaders-frequently-amid-executive-orders/\"><i>Armstrong, Columbia administrators meeting with congressional leaders ‘frequently’ amid executive orders</i></a><i>]</i>"
+          },
+          {
+            "type": "text",
+            "value": "Trump’s first months in office showcased his desire to fulfill a playbook that pledged to expand the role of the federal government in the United States, including at universities."
+          },
+          {
+            "type": "text",
+            "value": "Two months before the 2024 election, Trump promised that he would tell university presidents “that they must end the antisemitic propaganda or they will lose their accreditation and they will lose all federal support.”"
+          },
+          {
+            "type": "text",
+            "value": "On March 7, 2025, the federal government made good on months of <a href=\"https://www.columbiaspectator.com/news/2024/12/21/house-republicans-threaten-to-withhold-federal-funding-over-title-vi-violations-in-new-antisemitism-report/\">veiled threats</a> by Republicans and canceled $400 million in federal funding, citing Columbia’s “continued inaction” toward antisemitism on campus. One day later, plainclothes ICE agents <a href=\"https://www.columbiaspectator.com/news/2025/03/09/palestinian-activist-mahmoud-khalil-sipa-24-detained-by-immigration-and-customs-enforcement-lawyer-says/\">detained</a> Mahmoud Khalil, SIPA ’24 at his University-owned residence, making him the first high-profile target in the federal government’s crackdown on pro-Palestinian advocates."
+          },
+          {
+            "type": "text",
+            "value": "Both of these events thrust Columbia into the national spotlight as the first university to face direct oversight by the Trump administration."
+          },
+          {
+            "type": "text",
+            "value": "Reinhold Martin, professor of architecture and president of Columbia’s chapter of the American Association of University Professors, called the federal funding freeze “a mafia-style extortion.” Jean Howard, professor emerita in the humanities and a member of Columbia-AAUP’s executive committee, added that once the news of the funding cuts broke, “everybody thought that this could be the beginning of a long struggle.”"
+          },
+          {
+            "type": "text",
+            "value": "Christopher Baldassano, associate professor of psychology, who was at a rally in Washington Square Park protesting funding cuts to the National Institutes of Health the day Columbia lost its funding, told Spectator that the decision “felt maybe not surprising, but certainly an escalation of what was already happening.” <a href=\"https://www.columbiaspectator.com/news/2025/03/11/nih-cancels-250-million-in-grants-to-columbia-as-part-of-400-million-trump-administration-cut/\">$250 million</a> of the $400 million in cancelled funds came from the NIH."
+          },
+          {
+            "type": "text",
+            "value": "Howley, on the other hand, told Spectator he was more concerned about Khalil’s detainment than the canceled funding. Regarding federal funding cuts, Howley noted that University administrators had already been warned that “something like this was coming.” Howard called the detainment an abduction."
+          },
+          {
+            "type": "text",
+            "value": "Though Columbia was the first university to face <a href=\"https://www.columbiaspectator.com/news/2025/03/14/trump-administration-issues-list-of-demands-columbia-must-meet-to-maintain-federal-funding/\">demands</a> from the federal government, similar demands were soon issued to <a href=\"https://www.columbiaspectator.com/news/2025/04/16/columbia-remains-in-national-spotlight-as-growing-list-of-universities-face-similar-demands-from-federal-government/\">several other universities</a> across the country, including multiple Ivy League institutions."
+          },
+          {
+            "type": "text",
+            "value": "Howley said the timing of these events gave Columbia “a special obligation to demonstrate courage and resistance, and some basic principles and integrity,” which he believes the University failed to fulfill."
+          },
+          {
+            "type": "text",
+            "value": "“I think that the institutions that were targeted first, there was a moment they could have communicated to the rest of the country what it looked like to stand up to this,” Howley said, “and they didn’t.”"
+          },
+          {
+            "type": "text",
+            "value": "After Columbia <a href=\"https://www.columbiaspectator.com/news/2025/03/21/columbia-to-acquiesce-to-trump-administrations-demands-amid-federal-funding-threats/\">partially complied</a> with the Trump administration’s initial set of demands—including a partial mask ban, the <a href=\"https://www.columbiaspectator.com/news/2025/04/03/trump-told-columbia-to-hire-officers-with-arrest-power-the-university-was-already-planning-on-it/\">hiring</a> of 36 “special officers” with arrest powers, and <a href=\"https://www.columbiaspectator.com/news/2025/09/22/olinto-announces-new-faculty-committees-focused-on-academic-freedom-and-regional-review/\">placing</a> the Middle Eastern, South Asian, and African studies department under academic receivership—on March 21, 2025, to begin the process of restoring canceled federal funding, community members <a href=\"https://www.columbiaspectator.com/news/2025/04/06/faculty-fear-for-academic-freedom-following-acquiescence-to-trump-demands/\">expressed concern</a> with the government’s overreach. It was a <a href=\"https://www.columbiaspectator.com/news/2025/04/09/federal-government-questioned-armstrong-over-campus-antisemitism-on-april-1-according-to-leaked-transcript/\">fallout</a> that led Armstrong to resign from her post one week later on March 28, 2025."
+          },
+          {
+            "type": "text",
+            "value": "<i>[Read more: </i><a href=\"https://www.columbiaspectator.com/news/2025/04/01/columbias-response-to-the-trump-administrations-demands-explained/\"><i>Columbia’s response to the Trump administration’s demands, explained</i></a><i>]</i>"
+          },
+          {
+            "type": "text",
+            "value": "Shipman would steer Columbia through the remainder of the spring 2025 semester and the summer, which saw <a href=\"https://www.columbiaspectator.com/news/2025/03/14/department-of-homeland-security-agents-search-two-university-owned-residences-no-arrests-made/\">ongoing scrutiny</a> by immigration officials on Columbia affiliates—including <a href=\"https://www.columbiaspectator.com/news/2025/04/14/palestinian-activist-mohsen-mahdawi-gs-25-detained-by-ice-at-naturalization-appointment/\">Mohsen Mahdawi</a>, GS ’25, SIPA ’27; <a href=\"https://www.columbiaspectator.com/news/2025/03/29/rumeysa-ozturk-tc-20-moved-to-louisiana-ice-detention-center-after-judge-orders-she-stay-in-massachusetts/\">Rümeysa Öztürk</a>, TC ’20; <a href=\"https://www.columbiaspectator.com/news/2025/03/25/yunseo-chung-cc-26-files-lawsuit-against-trump-amid-threat-of-deportation/\">Yunseo Chung</a>, CC ’26<a href=\"https://www.columbiaspectator.com/news/2025/03/25/yunseo-chung-cc-26-files-lawsuit-against-trump-amid-threat-of-deportation/\">;</a> and Ph.D. candidate <a href=\"https://www.columbiaspectator.com/news/2025/03/14/columbia-doctoral-candidate-self-deported-another-protester-arrested-by-ice-dhs-announces/\">Ranjani Srinivasan</a>—threats of a <a href=\"https://www.columbiaspectator.com/news/2025/04/10/trump-administration-considering-increased-oversight-on-columbia-by-enacting-consent-decree-according-to-reports/\">consent decree</a> and loss of<a href=\"https://www.columbiaspectator.com/news/2025/06/04/columbia-fails-to-meet-accreditation-standards-department-of-education-says/\"> accreditation</a>, an <a href=\"https://www.columbiaspectator.com/news/2025/05/07/nypd-officers-respond-with-force-to-protesters-picketing-around-columbia-after-arrests-at-butler-library/\">aggressive</a> police response to a <a href=\"https://www.columbiaspectator.com/news/2025/05/07/pro-palestinian-protesters-and-public-safety-officers-clash-at-emergency-rally-in-butler-library/\">sit-in</a> at Butler Library, and <a href=\"https://www.columbiaspectator.com/news/2025/05/06/columbia-to-lay-off-nearly-180-researchers-funded-by-federal-grants/\">lingering uncertainty</a> over the future of federal funding."
+          },
+          {
+            "type": "text",
+            "value": "The combination of prolonged <a href=\"https://www.columbiaspectator.com/news/2025/09/30/judge-rules-trump-administrations-targeting-of-pro-palestinian-students-for-deportation-efforts-violated-first-amendment/\">federal</a> and <a href=\"https://www.columbiaspectator.com/news/2025/07/22/ujb-issues-expulsions-suspensions-and-degree-revocations-to-over-70-students-for-butler-demonstration/\">institutional</a> scrutiny on Columbia students who participated in campus protests raised <a href=\"https://www.columbiaspectator.com/news/2025/10/30/student-journalists-organizers-express-concern-for-free-expression-at-columbia-and-barnard-amid-immigration-crackdown-and-university-discipline/\">concerns</a> about the state of freedom of speech at the University."
+          },
+          {
+            "type": "text",
+            "value": "<i>[Read more: </i><a href=\"https://www.columbiaspectator.com/news/2025/09/10/barnard-and-columbia-claim-bottom-two-spots-in-annual-fire-college-free-speech-rankings/\"><i>Barnard and Columbia claim bottom two spots in annual FIRE college free speech rankings</i></a><i>]</i>"
+          },
+          {
+            "type": "text",
+            "value": "Weeks of summer <a href=\"https://www.columbiaspectator.com/news/2025/07/20/columbia-meets-with-trump-administration-in-talks-to-restore-federal-funding/\">negotiations</a> ended in July 2025 with a <a href=\"https://www.columbiaspectator.com/news/2025/07/23/columbia-will-pay-220-million-in-deal-with-trump-administration-to-resume-federal-funding/\">$221 million deal</a> between Columbia and the federal government, drawing sharp criticism from some <a href=\"https://www.google.com/search?q=columbia+spectatir+fauclty+settlement&oq=columbia+spectatir+fauclty+settlement&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMggIAhAAGBYYHjIICAMQABgWGB4yBwgEEAAY7wUyCggFEAAYgAQYogQyCggGEAAYgAQYogQyCggHEAAYogQYiQUyCggIEAAYgAQYogTSAQg0MDkxajBqNKgCALACAA&sourceid=chrome&ie=UTF-8\">faculty</a>, <a href=\"https://www.columbiaspectator.com/news/2025/07/30/students-share-mixed-reactions-to-columbias-200-million-settlement-with-trump-administration/\">students</a>, and <a href=\"https://www.columbiaspectator.com/news/2025/07/28/profound-disappointment-columbia-alumni-express-concern-following-settlement-with-trump-administration/\">alumni</a>. The deal also resulted in <a href=\"https://www.columbiaspectator.com/news/2025/10/22/columbia-quietly-changes-rules-governing-protests-and-discipline-for-first-time-in-10-years/\">closed-door changes</a> to policies about protests and discipline in the University Statues."
+          },
+          {
+            "type": "text",
+            "value": "According to a University <a href=\"https://president.columbia.edu/content/resolution-agreement-frequently-asked-questions\">web page</a>, Columbia considered filing a lawsuit in order to restore the canceled funding, but it ultimately determined that doing so would have come at a “steep price, incurring deeper, long-term damage,” including ineligibility for future funding, losing its accreditation, and the potential <a href=\"https://www.columbiaspectator.com/news/2025/04/06/federal-government-terminates-visas-of-four-international-students-university-says/\">revocation</a> of additional international student visas."
+          },
+          {
+            "type": "text",
+            "value": "“By securing this settlement, the Trump Administration is ensuring that Columbia upholds merit-based standards, complies with federal law, and fosters an environment of academic excellence and safety for all students,” a White House news release reads."
+          },
+          {
+            "type": "text",
+            "value": "It was the second settlement between the federal government and a university in a month, with similar deals at the <a href=\"https://www.thedp.com/article/2025/07/penn-federal-government-title-ix-settlement\">University of Pennsylvania</a> and <a href=\"https://www.browndailyherald.com/article/2025/07/brown-reaches-deal-with-federal-government-to-restore-research-funding\">Brown University.</a> Since then, other universities have settled with the federal government—Harvard University being the notable holdout, despite being in <a href=\"https://www.thecrimson.com/article/2025/11/22/mcmahon-harvard-deal-close/\">ongoing negotiations</a> with the White House."
+          },
+          {
+            "type": "text",
+            "value": "<i>[Read more: </i><a href=\"https://www.columbiaspectator.com/news/2025/09/11/it-is-a-shakedown-columbia-penn-brown-settle-with-government-as-peer-ivy-league-institutions-remain-in-crosshairs/\"><i>‘It is a shakedown’: Columbia, Penn, Brown settle with government as peer Ivy League institutions remain in crosshairs</i></a><i>]</i>"
+          },
+          {
+            "type": "text",
+            "value": "Aside from codifying the March 21 demands, Columbia’s <a href=\"https://president.columbia.edu/sites/president.columbia.edu/files/content/July%202025%20Announcement/Columbia%20University%20Resolution%20Agreement.pdf\">22-page deal</a> settled the University’s Title VI <a href=\"https://www.columbiaspectator.com/news/2025/05/23/office-for-civil-rights-finds-columbia-in-violation-of-title-vi-citing-deliberate-indifference-toward-antisemitism/\">violation</a>; <a href=\"https://www.columbiaspectator.com/news/2025/09/07/columbia-will-pay-jewish-employees-who-experienced-antisemitism-21-million-as-part-of-its-government-settlement-heres-how-it-works-according-to-the-eeocs-acting-chair/\">opened</a> a $21 million fund <a href=\"https://www.columbiaspectator.com/news/2025/12/04/eeoc-launches-claims-process-for-21-million-settlement-fund-for-jewish-and-israeli-employees-who-experienced-discrimination-at-columbia/\">administered</a> by the Equal Employment Opportunity Commission for Jewish employees at Columbia who experienced antisemitism; appointed Bart Schwartz, an independent third-party monitor, to oversee Columbia’s deal compliance; and called for Columbia to submit admissions data of applicants."
+          },
+          {
+            "type": "text",
+            "value": "The deal also restored <a href=\"https://www.columbiaspectator.com/news/2025/10/07/shipman-to-discuss-caps-on-research-indirect-costs-on-capitol-hill-amid-restoration-of-almost-99-percent-of-canceled-federal-grants/\">“almost 99 percent”</a> of the terminated federal grants, according to Shipman’s remarks at an October 2025 University Senate plenary. Hours after the deal was struck, she said in her <a href=\"https://www.columbiaspectator.com/news/2025/07/23/in-line-with-our-values-shipman-describes-deal-with-trump-administration-in-first-interview-with-spectator/\">first interview with Spectator</a> that despite the settlement, “I don’t think that it means every single dollar is coming back.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>[Read more: </i><a href=\"https://www.columbiaspectator.com/news/2025/08/22/heres-how-columbias-deal-with-the-trump-administration-may-play-out/\"><i>Here’s how Columbia’s deal with the Trump administration may play out</i></a><i>]</i>"
+          },
+          {
+            "type": "text",
+            "value": "In a July 29, 2025, Spectator <a href=\"https://www.columbiaspectator.com/opinion/2025/07/29/new-chapter-preserved-mission/\">op-ed</a>, University board of trustees co-chairs David Greenwald, Law ’83, and Jeh Johnson, Law ’82, wrote that the University “did not get everything we wanted in negotiations.”"
+          },
+          {
+            "type": "text",
+            "value": "Christopher Brown, professor of history, said he was appalled by the deal and the University’s “choice not to acknowledge that something very important had been traded away.”"
+          },
+          {
+            "type": "text",
+            "value": "In October 2025, <a href=\"https://www.columbiaspectator.com/news/2025/10/25/jim-glover-a-founding-dean-of-the-climate-school-to-oversee-university-compliance-with-trump-deal/\">Jim Glover</a>, senior associate dean for academic administration at the Climate School, was appointed to oversee the University’s compliance with the deal. That month, the White House issued a compact to nine universities which, if signed, would require them to align with federal policy priorities on issues like admissions, institutional neutrality, and foreign funding. It would also grant preferential access to federal funding."
+          },
+          {
+            "type": "text",
+            "value": "While the federal government did not send the compact to Columbia, three Ivy League institutions—<a href=\"https://www.browndailyherald.com/article/2025/10/trump-admin-asks-brown-to-freeze-tuition-cap-international-enrollment-for-funding-advantage-wsj-reports\">Brown</a>, <a href=\"https://www.thedp.com/article/2025/10/penn-white-house-compact-funding-agreement-university-standards#:~:text=White%20House%20asks%20Penn%20to,funding%20advantages%20%2D%20The%20Daily%20Pennsylvanian\">the University of Pennsylvania</a>, and <a href=\"https://www.thedartmouth.com/article/2025/10/dartmouth-federal-government-proposed-agreement\">Dartmouth College</a><a href=\"https://www.thedartmouth.com/article/2025/10/dartmouth-federal-government-proposed-agreement\">—</a>received and rejected it, alongside four other universities."
+          },
+          {
+            "type": "text",
+            "value": "It remains unclear why Columbia did not receive the compact."
+          },
+          {
+            "type": "text",
+            "value": "Howley speculated that the widespread scope of Columbia’s July 2025 deal could have offered the Trump administration a blueprint for further actions on universities, like the compact."
+          },
+          {
+            "type": "text",
+            "value": "“I wonder where the Trump White House could have possibly gotten the idea that they could get away with something like that,” Howley said. “Maybe from the fact that one of the first universities they tried to shake down rolled over and gave them everything they wanted and then some.”"
+          },
+          {
+            "type": "text",
+            "value": "<b>A need for ‘vision and courage’: The aftermath of Trump’s first year </b>"
+          },
+          {
+            "type": "text",
+            "value": "One year into the second Trump administration, it remains to be seen whether Columbia has fully exited the national spotlight, but the University continues to manage the <a href=\"https://www.columbiaspectator.com/news/2025/11/09/columbia-draws-on-endowment-to-address-trump-administrations-cancellation-of-research-funding/\">ramifications</a> of its deal with the federal government."
+          },
+          {
+            "type": "text",
+            "value": "At the federal level, Columbia remains part of the U.S. Commission on Civil Rights’ <a href=\"https://www.columbiaspectator.com/news/2025/10/07/us-commission-on-civil-rights-opens-investigation-into-the-governments-response-to-antisemitism-allegations-at-columbia-and-other-universities/\">investigation</a> into the federal government’s response to alleged antisemitism incidents on college campuses. The first hearing in the investigation is scheduled for Feb. 19."
+          },
+          {
+            "type": "text",
+            "value": "<a href=\"https://www.columbiaspectator.com/news/2025/06/20/mahmoud-khalil-sipa-24-released-after-102-days-in-detention-center/\">Khalil</a>, <a href=\"https://www.columbiaspectator.com/news/2025/04/30/federal-judge-releases-mohsen-mahdawi-gs-25-from-custody-on-bail/\">Mahdawi</a>, and <a href=\"https://www.columbiaspectator.com/news/2025/05/09/federal-judge-orders-release-of-rumeysa-ozturk-tc-20/\">Öztürk</a> have all been released from ICE custody as final decisions regarding their immigration cases are <a href=\"https://www.columbiaspectator.com/news/2025/10/01/appeals-court-hears-arguments-for-mahdawi-v-trump-and-ozturk-v-hyde-verdict-to-follow/\">pending.</a> An appeals court <a href=\"https://www.columbiaspectator.com/news/2026/01/15/appeals-court-reverses-decision-that-released-mahmoud-khalil-sipa-24/\">ruling</a> Thursday reopened the door for Khalil’s detention and deportation."
+          },
+          {
+            "type": "text",
+            "value": "Columbia submitted an “<a href=\"https://www.columbiaspectator.com/news/2025/10/27/columbia-submits-initial-set-of-information-in-compliance-with-trump-deal-deadlines-university-spokesperson-says/\">initial set of information”</a> to the federal government in compliance with two October 2025 deadlines of the deal concerned with admissions data and the development of “training materials to socialize all students to campus norms and values more broadly.”"
+          },
+          {
+            "type": "text",
+            "value": "The Law School <a href=\"https://www.columbiaspectator.com/news/2025/10/16/in-compliance-with-trump-deal-law-school-asks-international-applicants-their-reasons-for-studying-in-the-us/\">added</a> a question for fall 2026 JD applicants about their reasons for studying in the United States. A University official told Spectator in October 2025 that Columbia College would include a new, detailed question for international applicants during the 2026-27 admissions cycle."
+          },
+          {
+            "type": "text",
+            "value": "In her July 2025 interview with Spectator, Shipman said there would not “be any change to the admission or status of international students at Columbia.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>[Read more: </i><a href=\"https://www.columbiaspectator.com/news/2025/05/27/trump-administration-pauses-new-student-visa-interviews-amid-potential-social-media-vetting/\"><i>Trump administration pauses new student visa interviews amid potential social media vetting</i></a><i>]</i>"
+          },
+          {
+            "type": "text",
+            "value": "Inside Low Library, the revolving door of leadership is not yet shut: The University’s presidential search committee <a href=\"https://www.columbiaspectator.com/news/2025/12/08/presidential-search-committee-postpones-expected-deadline-for-announcing-next-columbia-president/\">indefinitely postponed</a> its Jan. 1 deadline to select Columbia’s 21st president, who will be tasked with ensuring the long-term stability of the partnership between Columbia and the federal government."
+          },
+          {
+            "type": "text",
+            "value": "Howard told Spectator she hopes for Columbia to be led by someone “with vision and courage, who can begin to resuscitate the bonds that are supposed to really tie this University together.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>[Read more: </i><a href=\"https://www.columbiaspectator.com/news/2025/10/21/what-do-columbia-students-want-in-their-next-university-president/\"><i>What do Columbia students want in their next University president?</i></a><i>]</i>"
+          },
+          {
+            "type": "text",
+            "value": "Brown criticized Columbia for not doing “nearly enough to stand up for itself” in Trump’s first year back in office. On the other hand, Baldassano expressed more optimism, stating that “the Trump administration does not actually want to end scientific and medical research in the United States.”"
+          },
+          {
+            "type": "text",
+            "value": "He added that he hopes the settlements with universities “is the political victory that I hope they were looking for, that they can show that the federal government pertains some power and control over the universities.”"
+          },
+          {
+            "type": "text",
+            "value": "Green acknowledged that the federal government “holds all the cards,” but pointed to the lack of additional measures from the White House to enact scrutiny on Columbia since the July deal as a potential positive development."
+          },
+          {
+            "type": "text",
+            "value": "“I would say no news is good news,” Green said. “But it’s unclear how long it’ll last.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy News Editor Joseph Zuloaga can be contacted at</i><a href=\"mailto:joseph.zuloaga@columbiaspectator.com\"><i> joseph.zuloaga@columbiaspectator.com</i></a><i>. Follow him on X </i><a href=\"https://twitter.com/JosephZuloaga\"><i>@josephzuloaga</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy News Editor Nadia Knoblauch can be contacted at </i><a href=\"mailto:nadia.knoblauch@columbiaspectator.com\"><i>nadia.knoblauch@columbiaspectator.com</i></a><i>. Follow her on X </i><a href=\"https://x.com/nadiaknoblauch\"><i>@nadiaknoblauch</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>.</i></b>"
+          }
+        ],
+        "headline": "‘Night and day’: How one year of Donald Trump’s second term upended Columbia’s relationship with the federal government",
+        "dek": "The relationship between the University and the second Trump White House has so far been characterized by federal funding cuts, ICE arrests, and a multimillion-dollar settlement—a departure from the policies of the first Trump term.",
+        "date": "January 20, 2026",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/joseph-zuloaga/\">Joseph Zuloaga</a> and <a href=\"https://www.columbiaspectator.com/contributors/nadia-knoblauch/\">Nadia Knoblauch</a>",
+        "Cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/324CV3CFV5C45ODKW5MPFFVUTI.png",
+        "cover_caption": "Saumya Chaudhry and Sally Weitzner / Illustrations Editor and Staff Illustrator",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1J6xxM8D8ngC-wI5k-0OfC5BqG7LDaRNZLhiTcNP8wd8/edit?tab=t.0"
       }
     }
   }
